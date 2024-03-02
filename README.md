@@ -2,8 +2,6 @@
 <h1 align="center" style="color:#2494d1;">Hi 👋, I'm Senula Nanayakkara</h1>
 <h3 align="center">Transforming Vision into Code</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=senula88&label=Profile%20views&color=0e75b6&style=flat" alt="senula88" /> </p>
-
 - 🔭 I’m currently working on **Hospital Information Management System**
 
 - 🌱 I’m currently learning **MERN STACK, JAVA EE**

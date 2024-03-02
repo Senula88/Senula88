@@ -1,4 +1,4 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f898e105305087.5f75eb331473c.gif)](https://rishavchanda.io)
+[![MasterHead]([https://mir-s3-cdn-cf.behance.net/project_modules/disp/8f898e105305087.5f75eb331473c.gif](https://img.freepik.com/free-photo/html-system-website-concept_23-2150376732.jpg?t=st=1709404230~exp=1709407830~hmac=1e72abe193e541656d51cd914b6a9dbc1f673ce588725767589924dad2f8f821&w=996))](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Senula Nanayakkara</h1>
 <h3 align="center">Transforming Vision into Code</h3>
 

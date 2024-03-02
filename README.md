@@ -1,5 +1,5 @@
-[![MasterHead](https://sqa-consulting.com/wp-content/uploads/2020/10/4DFAA16E-4321-4D93-9811-3D23F61DF576-2.jpg)](https://rishavchanda.io)(https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Senula Nanayakkara</h1>
+[![MasterHead](https://sqa-consulting.com/wp-content/uploads/2020/10/4DFAA16E-4321-4D93-9811-3D23F61DF576-2.jpg)](https://rishavchanda.io)
+<h1 align="center" style="color:#2494d1;">Hi 👋, I'm Senula Nanayakkara</h1>
 <h3 align="center">Transforming Vision into Code</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=senula88&label=Profile%20views&color=0e75b6&style=flat" alt="senula88" /> </p>
